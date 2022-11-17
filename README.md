@@ -4,4 +4,4 @@ Esta es mi practica final realizada en la misión FrontEnd, utilice HTML, CSS y 
 
 # Capturas
 
-![captura de pantalla]("./minuature.png")
+![captura de pantalla]("minuature.png")
